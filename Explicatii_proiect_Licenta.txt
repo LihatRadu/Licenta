@@ -1,0 +1,13 @@
+-Proiectul este despre recunoasterea formelor din imagini prin metode de deep learning.
+
+-Acest proiect contine si functioneaza pe baza de keras, tensorflow, matplotlib 
+
+-In momentul de fata proiectul genereaza numere si imagini din datasetul MNIST.
+
+-Pentru a rula trebuie activat Virtual Enviromentul "app". 
+
+-Trebuie deschis un terminal si rulata comanda ". app/Scripts/activate"--In caz daca sistemul de operare este Windows, in cazul in care este Linux atunci comanda va fi "source app/bin/activate".
+
+-Dupa ce mediul virtual este activat puteti rula fila "app.py" prin comanda "python app.py".
+
+-De aici trebuie asteptat putin si va aparea o fereastra cu numerele generate.
